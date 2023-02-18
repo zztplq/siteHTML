@@ -1,7 +1,7 @@
 body{
     background: #EEEEEE;
     margin:0;
-    font-family: Candara;
+    font-family: Arial;
 }
 
 header{
@@ -12,7 +12,7 @@ header{
 }
 
 main{
-    background: #EEEEEE;
+    background: white;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
@@ -20,3 +20,29 @@ main{
     border-radius: 10px;
     width: 80%;
 }
+
+nav a{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover{
+    background-color: #0096ff;
+    color: black;
+}
+
+main h1 {
+    text-align: center;
+}
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+}
+
+
