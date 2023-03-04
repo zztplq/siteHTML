@@ -49,6 +49,11 @@ main img {
     border-radius: 4px;
 }
 
+.gallery_item .desc {
+    padding: 15px;
+    text-align: center;
+    color: #0096ff;
+}
 
 .gallery {
     display: inline-block
