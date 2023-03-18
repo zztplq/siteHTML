@@ -104,3 +104,36 @@ th:nth-child(even) {
 th:nth-child(odd) {
     background-color: red;
 }
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    background: #EEEEEE;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.w-30 {
+    width: 30px;
+}
+
+.w-70 {
+    width: 70px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
